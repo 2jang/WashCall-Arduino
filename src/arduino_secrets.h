@@ -1,8 +1,0 @@
-#define SECRET_SSID "SSID"
-#define SECRET_PASS "PASS"
-
-#define SERVER_IP "IP"
-#define SERVER_PORT 8000
-
-#define MACHINE_ID 1
-#define DEVICE_SECRET_KEY "CHANGE_ME"
